@@ -1,0 +1,14 @@
+[
+    {
+        "picture":"../Images/book1.jpg",
+        "title": "Javascript for Dummies",
+        "author": "Dummy Dumb Dumb",
+        "read": false
+    },
+    {
+        "picture":"../Images/book2.jpg",
+        "title" : "Javascript for Dumbies", 
+        "author" : "Dummy Dumb",
+        "read" : true
+    }
+]
